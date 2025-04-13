@@ -1,4 +1,4 @@
-# Practic 3
+# Practice 3
 
 @Alberto Bettini @Francesco Pizzato 
 
